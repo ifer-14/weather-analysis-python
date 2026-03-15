@@ -1,0 +1,4 @@
+requests
+SQLAlchemy
+pytest
+matplotlib
